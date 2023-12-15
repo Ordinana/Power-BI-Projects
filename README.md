@@ -1,7 +1,6 @@
-# Power-BI-Projects
-Proyectos demostrativos en los que se analizan los datos de empresas ficticias con funciones DAX.
+# Proyectos demostrativos en los que se analizan los datos de empresas ficticias con funciones DAX.
 
-PROYECTO 1: VIDEOJUEGOS
+## PROYECTO 1: VIDEOJUEGOS
 > Desarrollar un reporte interactivo que nos permita analizar las ventras de millones de copias de videojuegos a nivel global.
 > Se analizarán por la siguientes categorías:
   - Año
@@ -11,7 +10,7 @@ PROYECTO 1: VIDEOJUEGOS
   - Editorial
 
 
-PROYECTO 2: INDICADORES MUNDIALES
+## PROYECTO 2: INDICADORES MUNDIALES
 > Se busca realizar una integración de las fuentes de datos proporcionadas que nos sumarice información clave por medio de mapas y gráficos interactivos en dos reportes:
   - Reporte 1: Poblacion por país y continente.
   - Reporte 2: Indicadores munciales de Esperanza de vida y Mortalidad infantil.
@@ -23,7 +22,7 @@ PROYECTO 2: INDICADORES MUNDIALES
   - Relación entre Esperanza de vida y Mortalidad infantil.
 
 
-PROYECTO 3: RECURSOS HUMANOS
+## PROYECTO 3: RECURSOS HUMANOS
 > Se busca visualizzar indicadores de Colaboradores, Sueldos y Desempeños a manera de un Reporte de Recursos Humanos de la compañía SKU-DON.
 > Este reporte requiere analizar lo siguiente:
   - Análisis por Empleado
@@ -33,7 +32,7 @@ PROYECTO 3: RECURSOS HUMANOS
   - Evaluación de desempeño Max. Min. y por Jefe
 
 
-PROYECTO 4: FINANZAS PERSONALES
+## PROYECTO 4: FINANZAS PERSONALES
 > Desarrollar un reporte de Finanzas Personales que nos permita visualizar e interactuar con indicadores sencillos de comprender desde cualquier dispositivo (PC, Tablet, Celular)
 > El reporte contará con los siguientes puntos:
   - Poder revisar Ingresos, Gastos, Utilidad (Ganancias) y Saldo (Dinero disponible)
