@@ -2,9 +2,9 @@
 Proyectos demostrativos en los que se analizan los datos de empresas ficticias con funciones DAX.
 
 > PROYECTO 1:
-  Objetivo:
-  Desarrollar un reporte interactivo que nos permita analizar las ventras de millones de copias de videojuegos a nivel global.
-  Se analizarán por la siguientes categorías:
+> Objetivo:
+> Desarrollar un reporte interactivo que nos permita analizar las ventras de millones de copias de videojuegos a nivel global.
+> Se analizarán por la siguientes categorías:
   - Año
   - Región
   - Plataforma
