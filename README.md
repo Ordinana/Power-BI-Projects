@@ -18,7 +18,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
     
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/639697b9-7564-4619-85de-2f011f9b52a6)
 
-![2](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/3599bdcb-2d5e-457a-bc06-28fc8f36fae8)
+Ver más en: PROYECTO 1 VIDEOJUEGOS/Readme.md
 
 
 ### Proyecto 2: INDICADORES MUNDIALES
