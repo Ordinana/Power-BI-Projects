@@ -15,6 +15,8 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
   - Plataforma
   - Género
   - Editorial
+    
+![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/639697b9-7564-4619-85de-2f011f9b52a6)
 
 .
 ### Proyecto 2: INDICADORES MUNDIALES
