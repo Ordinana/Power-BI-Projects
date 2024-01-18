@@ -34,7 +34,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/95a88917-942e-467c-857d-5a399ec83d84)
 
-> + Detalles: 
++ Más detalles: https://github.com/Ordinana/Power-BI-Projects/tree/a3f126ae9b7072cdd1051d13d0f17cc70cd13880/PROYECTO%202%20INDICADORES%20MUNDIALES
 
 
 ### Proyecto 3: RECURSOS HUMANOS
@@ -48,7 +48,8 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/7da6c691-f78a-42ee-8e46-876f4da33ba4)
 
-+ Detalles: 
++ Más detalles: https://github.com/Ordinana/Power-BI-Projects/tree/a3f126ae9b7072cdd1051d13d0f17cc70cd13880/PROYECTO%203%20RECURSOS%20HUMANOS
+
 
 ### Proyecto 4: FINANZAS PERSONALES
 > Desarrollar un reporte de Finanzas Personales que nos permita visualizar e interactuar con indicadores sencillos de comprender desde cualquier dispositivo (PC, Tablet, Celular)
@@ -61,7 +62,8 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/ad1fa713-6488-4c3c-81b9-c10a7c70b3db)
 
-+ Detalles: 
++ Más detalles: https://github.com/Ordinana/Power-BI-Projects/tree/a3f126ae9b7072cdd1051d13d0f17cc70cd13880/PROYECTO%204%20%20FINANZAS%20PERSONALES
+
 
 ## Contacto
 
