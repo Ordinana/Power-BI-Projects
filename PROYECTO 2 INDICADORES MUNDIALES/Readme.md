@@ -1,7 +1,7 @@
 ### Proyecto 2: INDICADORES MUNDIALES
 > Se busca realizar una integración de las fuentes de datos proporcionadas que nos sumarice información clave por medio de mapas y gráficos interactivos en dos reportes:
   - Reporte 1: Poblacion por país y continente.
-  - Reporte 2: Indicadores munciales de Esperanza de vida y Mortalidad infantil.
+  - Reporte 2: Indicadores mundiales de Esperanza de vida y Mortalidad infantil.
 > Se analizarán por la siguientes categorías:
   - Grupos de Continente
   - Grupos de Población
