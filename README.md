@@ -16,7 +16,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
   - Género
   - Editorial
     
-![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/639697b9-7564-4619-85de-2f011f9b52a6)
+![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/39ab6926-732f-4acd-85ee-69f7d243170f)
 
 + Más detalles: https://github.com/Ordinana/Power-BI-Projects/tree/d332c666de034fafdc3192f9d3818dcbd63a950b/PROYECTO%201%20VIDEOJUEGOS
 
