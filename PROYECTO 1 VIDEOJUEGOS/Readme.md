@@ -8,6 +8,4 @@
   - Género
   - Editorial
     
-![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/639697b9-7564-4619-85de-2f011f9b52a6)
-
-![2](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/3599bdcb-2d5e-457a-bc06-28fc8f36fae8)
+![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/39ab6926-732f-4acd-85ee-69f7d243170f)
