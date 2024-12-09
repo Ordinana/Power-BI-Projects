@@ -18,7 +18,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
     
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/39ab6926-732f-4acd-85ee-69f7d243170f)
 
-+ Versión Interactiva! -> https://project.novypro.com/nJeAlD
++ ### Versión Interactiva! -> https://project.novypro.com/nJeAlD
 
 
 ### Proyecto 2: INDICADORES MUNDIALES
@@ -34,7 +34,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/95a88917-942e-467c-857d-5a399ec83d84)
 
-+ Versión Interactiva! -> https://project.novypro.com/nJeAlD
++ ### Versión Interactiva! -> https://project.novypro.com/K72g4P
 
 
 ### Proyecto 3: RECURSOS HUMANOS
@@ -48,7 +48,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/7da6c691-f78a-42ee-8e46-876f4da33ba4)
 
-+ Versión Interactiva! -> https://project.novypro.com/nJeAlD
++ ### Versión Interactiva! -> https://project.novypro.com/yFlSUD
 
 
 ### Proyecto 4: FINANZAS PERSONALES
@@ -62,7 +62,7 @@ Estos proyectos representan análisis de datos de empresas ficticias y han sido 
 
 ![1](https://github.com/Ordinana/Power-BI-Projects/assets/102070528/ad1fa713-6488-4c3c-81b9-c10a7c70b3db)
 
-+ Versión Interactiva! -> https://project.novypro.com/nJeAlD
++ ### Versión Interactiva! -> https://project.novypro.com/BT4MKt
 
 
 ## Contacto
